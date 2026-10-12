@@ -1,33 +1,109 @@
+<div align="center">
+
 # Hi, I'm Aaryan Singh 👋
+### Data Analyst | Excel · SQL · Power BI
 
-**Data Analyst** · SQL • Python • Power BI • Excel · Mumbai, India
+3rd-year BSc Computer Science student (Mumbai) learning analytics by building — SQL, Python (pandas), Power BI.
 
-3rd-year BSc Computer Science student learning analytics by building. I work with SQL, Python (pandas), and Power BI to turn messy data into clear decisions.
+</div>
 
-## 🛠️ Tech Stack
+---
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%2FMySQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-pandas%2C%20NumPy-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-DAX%2C%20Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-ETL_scheduling-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+## 🌐 Connect With Me
 
-## 📌 Featured Projects
+<div align="center">
 
-**[MarketPulse — Financial Market Data Pipeline](https://github.com/Aryan787913/Market_pulse_clg)** 📈
-Automated ETL (Python + yfinance, scheduled via GitHub Actions) into PostgreSQL/Supabase, served through a Next.js dashboard: 50 NSE stocks, screener, 90-day price history, ARIMA/XGBoost forecasts, news feed, and CSV/JSON export.
-→ [Live demo](https://market-pulse-clg.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryansingh-de)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryan787913)
 
-**[Insurance Analytics](https://github.com/Aryan787913/Medibuddy-Insurance-Analysis)** 🏥
-EDA + Tableau dashboard + Random Forest model (scikit-learn) predicting health-insurance charges (R² 0.89). Smokers average ~4x the charges of non-smokers — the single biggest pricing signal.
+</div>
 
-**[Aadhaar Migration Analytics](https://github.com/Aryan787913/uidai-migration-analytics)** 🗺️
-Built for the UIDAI Data Hackathon: used Aadhaar enrolment/update patterns as a real-time proxy for internal migration — state/district migration index, seasonal peaks, and Prophet-based demand forecasting.
+## 📬 Reach Me
 
-**[SQL Practice](https://github.com/Aryan787913/sql-practice)** 🗄️
-30-day PostgreSQL challenge in progress: joins, subqueries, window functions, CTEs, interview-style questions.
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aaryansingh-de
+- 📧 **Email:** *(tell me which address to show and I'll add it)*
 
-## 📫 Connect
+## 🚀 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aaryansingh-de)
-- 💻 [GitHub](https://github.com/Aryan787913)
+| Project | Description |
+|---|---|
+| 📈 [MarketPulse](https://github.com/Aryan787913/Market_pulse_clg) | Financial market data pipeline — automated ETL into PostgreSQL/Supabase, Next.js dashboard, 50 NSE stocks, forecasts ([live demo](https://market-pulse-clg.vercel.app/)) |
+| 🏥 [Insurance Analytics](https://github.com/Aryan787913/Medibuddy-Insurance-Analysis) | EDA + Tableau dashboard + Random Forest predicting health-insurance charges (R² 0.89) — LabMentix internship |
+| 📊 [UPI Ecosystem Pulse](https://github.com/Aryan787913) | Premium Power BI dashboard on real NPCI UPI data (concept project, in progress) |
+| 🗺️ [Aadhaar Migration Analytics](https://github.com/Aryan787913/uidai-migration-analytics) | UIDAI hackathon — migration index from Aadhaar patterns, Prophet forecasting |
+| 🗄️ [SQL Practice](https://github.com/Aryan787913/sql-practice) | 30-day PostgreSQL challenge: joins, window functions, CTEs, interview questions |
+
+## 👨‍💻 About Me
+
+- 🎓 B.Sc. Computer Science (2024–2027), Mumbai + Global Data Science Program, BSE Institute
+- 📊 Interested in Data Analytics & Business Intelligence
+- 🛠️ Skilled in Python, SQL, Power BI & Excel
+- 🔭 Currently building: premium Power BI dashboard on UPI payments data
+- 🌱 Learning: statistics & A/B testing
+
+## 💻 Tech Stack
+
+<div align="center">
+
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan787913&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan787913&layout=compact&theme=tokyonight)
+
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan787913&theme=tokyonight)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Aryan787913&theme=tokyonight&no-frame=true&row=1)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan787913&theme=tokyo-night)
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/Aryan787913/Aryan787913/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Learning by building — one dataset at a time."* 🚀
+
+</div>
