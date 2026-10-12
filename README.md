@@ -14,6 +14,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryansingh-de)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansengar02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryan787913)
 
 </div>
@@ -21,7 +22,7 @@
 ## 📬 Reach Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/aaryansingh-de
-- 📧 **Email:** *(tell me which address to show and I'll add it)*
+- 📧 **Email:** aryansengar02@gmail.com
 
 ## 🚀 Featured Projects
 
