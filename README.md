@@ -77,22 +77,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Aryan787913&theme=tokyonight&no-frame=true&row=1)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan787913&theme=tokyo-night)
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
