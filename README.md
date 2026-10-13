@@ -16,6 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryansingh-de)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansengar02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryan787913)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aryan787913.github.io/portfolio/)
 
 </div>
 
@@ -23,6 +24,7 @@
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/aaryansingh-de
 - 📧 **Email:** aryansengar02@gmail.com
+- 🌐 **Portfolio:** https://aryan787913.github.io/portfolio/
 
 ## 🚀 Featured Projects
 
