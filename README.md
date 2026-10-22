@@ -31,7 +31,6 @@
 | Project | Description |
 |---|---|
 | 📈 [MarketPulse](https://github.com/Aryan787913/Market_pulse_clg) | Financial market data pipeline — automated ETL into PostgreSQL/Supabase, Next.js dashboard, 50 NSE stocks, forecasts ([live demo](https://market-pulse-clg.vercel.app/)) |
-| 🏥 [Insurance Analytics](https://github.com/Aryan787913/Medibuddy-Insurance-Analysis) | EDA + Tableau dashboard + Random Forest predicting health-insurance charges (R² 0.89) — LabMentix internship |
 | 📊 [UPI Ecosystem Pulse](https://github.com/Aryan787913) | Premium Power BI dashboard on real NPCI UPI data (concept project, in progress) |
 | 🗺️ [Aadhaar Migration Analytics](https://github.com/Aryan787913/uidai-migration-analytics) | UIDAI hackathon — migration index from Aadhaar patterns, Prophet forecasting |
 | 🗄️ [SQL Practice](https://github.com/Aryan787913/sql-practice) | 30-day PostgreSQL challenge: joins, window functions, CTEs, interview questions |
