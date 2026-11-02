@@ -30,9 +30,9 @@ Final-year BSc Computer Science student (Mumbai) learning analytics by building 
 
 | Project | Description |
 |---|---|
-| 📈 [MarketPulse](https://github.com/Aryan787913/Market_pulse_clg) | Financial market data pipeline — automated ETL into PostgreSQL/Supabase, Next.js dashboard, 50 NSE stocks, forecasts ([live demo](https://market-pulse-clg.vercel.app/)) |
 | 🌊 [Flood Triage](https://github.com/Aryan787913/flood-triage) | Hackathon (Nov 2026) — ranks citizen flood photos for ward officers; 0.633 Macro-F1 vs 0.580 baseline, gross errors 35→17 ([demo video](https://youtu.be/f3huyJmgsEg)) |
 | 🧾 [Terms Desk](https://github.com/Aryan787913/terms-desk) | ML + rules approval for early-payment discounts on PayPal invoices; ROC AUC 0.783 vs 0.749 baseline ([live demo](https://aryanrsinghsengar.github.io/terms-desk/)) |
+| 📈 [MarketPulse](https://github.com/Aryan787913/Market_pulse_clg) | Financial market data pipeline — automated ETL into PostgreSQL/Supabase, Next.js dashboard, 50 NSE stocks, forecasts ([live demo](https://market-pulse-clg.vercel.app/)) |
 | 🗺️ [Aadhaar Migration Analytics](https://github.com/Aryan787913/uidai-migration-analytics) | UIDAI hackathon — migration index from Aadhaar patterns, Prophet forecasting |
 | 🗄️ [SQL Practice](https://github.com/Aryan787913/sql-practice) | 30-day PostgreSQL challenge: joins, window functions, CTEs, interview questions |
 
