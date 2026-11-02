@@ -3,7 +3,7 @@
 # Hi, I'm Aaryan Singh 👋
 ### Data Analyst | Excel · SQL · Power BI
 
-3rd-year BSc Computer Science student (Mumbai) learning analytics by building — SQL, Python (pandas), Power BI.
+Final-year BSc Computer Science student (Mumbai) learning analytics by building — SQL, Python (pandas), Power BI.
 
 </div>
 
@@ -31,7 +31,8 @@
 | Project | Description |
 |---|---|
 | 📈 [MarketPulse](https://github.com/Aryan787913/Market_pulse_clg) | Financial market data pipeline — automated ETL into PostgreSQL/Supabase, Next.js dashboard, 50 NSE stocks, forecasts ([live demo](https://market-pulse-clg.vercel.app/)) |
-| 📊 [UPI Ecosystem Pulse](https://github.com/Aryan787913) | Premium Power BI dashboard on real NPCI UPI data (concept project, in progress) |
+| 🌊 [Flood Triage](https://github.com/Aryan787913/flood-triage) | Hackathon (Nov 2026) — ranks citizen flood photos for ward officers; 0.633 Macro-F1 vs 0.580 baseline, gross errors 35→17 ([demo video](https://youtu.be/f3huyJmgsEg)) |
+| 🧾 [Terms Desk](https://github.com/Aryan787913/terms-desk) | ML + rules approval for early-payment discounts on PayPal invoices; ROC AUC 0.783 vs 0.749 baseline ([live demo](https://aryanrsinghsengar.github.io/terms-desk/)) |
 | 🗺️ [Aadhaar Migration Analytics](https://github.com/Aryan787913/uidai-migration-analytics) | UIDAI hackathon — migration index from Aadhaar patterns, Prophet forecasting |
 | 🗄️ [SQL Practice](https://github.com/Aryan787913/sql-practice) | 30-day PostgreSQL challenge: joins, window functions, CTEs, interview questions |
 
@@ -40,7 +41,7 @@
 - 🎓 B.Sc. Computer Science (2024–2027), Mumbai + Global Data Science Program, BSE Institute
 - 📊 Interested in Data Analytics & Business Intelligence
 - 🛠️ Skilled in Python, SQL, Power BI & Excel
-- 🔭 Currently building: premium Power BI dashboard on UPI payments data
+- 🔭 Currently building: ML + rules decision tools on real data
 - 🌱 Learning: statistics & A/B testing
 
 ## 💻 Tech Stack
@@ -57,7 +58,6 @@
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 </div>
 
